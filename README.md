@@ -11,6 +11,10 @@ Este proyecto guarda datos simples en un archivo `.csv` y permite leerlos nuevam
 |-----------|--------|
 | 🟢 Google Colab | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMERICO28/proyecto_datos_csv/blob/main/primer_programa.ipynb) |
 | 💻 Jupyter/Anaconda | [📥 Descargar notebook](https://github.com/AMERICO28/proyecto_datos_csv/raw/main/primer_programa.ipynb) |
+[![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AMERICO28/proyecto_datos_csv/HEAD?filepath=primer_programa.ipynb)
+[🔍 Ver notebook en NBViewer](https://nbviewer.org/github/AMERICO28/proyecto_datos_csv/blob/main/primer_programa.ipynb)
+
+
 
 ---
 
